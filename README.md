@@ -31,6 +31,6 @@ competition.py (without any algorithm)
 
 start_container.py (start one container)
 
-algorithm.py (algorithm1 script)
+algorithm.py (algorithm script)
 
 random_add.py (start container randomly)
