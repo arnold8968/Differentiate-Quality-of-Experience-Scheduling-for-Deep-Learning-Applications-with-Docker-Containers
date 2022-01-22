@@ -21,8 +21,11 @@ update git` git pull origin master
 ## Scripts Instruction
 
 install.sh (Install docker)
+
 start_container_seven.py (start seven containers at the same time)
+
 competition.py (without any algorithm)
+
 algorithm.py (algorithm script)
 
 
