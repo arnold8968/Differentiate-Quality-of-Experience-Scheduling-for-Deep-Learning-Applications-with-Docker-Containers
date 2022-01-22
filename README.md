@@ -6,7 +6,7 @@ Python version: 3.70
 
 Docker Swarm version: 18.06.2
 
-Docker Swarm install 
+### Docker Swarm install 
 
 Step 1 install docker in all nodes. chmod 777 install.sh ./install.sh
 
